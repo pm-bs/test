@@ -5,3 +5,6 @@ pommes
 lait
 pain
 CEREALES
+
+
+chocolat
